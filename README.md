@@ -24,9 +24,9 @@ Streamlit (frontend UI)
 
 Project Structure
 ├── app.py                # Streamlit app entry point
-├── model.pkl             # Pickle file for pre-computed similarity data
-├── movies.csv            # Dataset of movies and series
-├── requirements.txt      # Python dependencies
+├── similarity.pkl        # Pickle file for pre-computed similarity data
+├── dataset.csv           # Dataset of movies and series
+├── frontend              # Streamlit frontend
 ├── README.md             # Project documentation
 
 How It Works
